@@ -34,5 +34,5 @@ Extension test:
 With testbench and GTK wave for simulation:
 
 <p align="center">
-  <img src="/Media/verilog-gtk-wave-running.png" alt="workflow"/>
+  <img src="/screenshots/verilog-gtk-wave-running.png" alt="workflow"/>
 </p>
