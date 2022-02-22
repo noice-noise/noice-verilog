@@ -4,6 +4,10 @@ Verilog struggles repo
 
 ## Workflow: Icarus Verilog + GTK + VSCode extension
 
+<p align="center">
+  <img src="/screenshots/verilog-gtk-wave-running.png" alt="workflow"/>
+</p>
+
 Setting up the workflow with VSCode is not easy, but provides flexibility and portability as all these tools are open source. Proceed at your risk.
 
 Follow-through [YouTube tutorial by godofthunder1729](https://www.youtube.com/watch?v=FqIhFxf9kFM).
