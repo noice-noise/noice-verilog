@@ -18,7 +18,7 @@ Follow-through [YouTube tutorial by godofthunder1729](https://www.youtube.com/wa
 ### Install VSCode extensions:
 
 - `Verilog HDL` by leafvmaple
-  - for compiling & cxecuting as show in the tutorial)
+  - for compiling & cxecuting as show in the tutorial
 - `Verilog-HDL/SystemVerilog/Bluespec SystemVerilog` by mshr-h
   - optional - for easy Code Snippets
   - Old but working [tutorial](https://www.youtube.com/watch?v=FZ-CQ_TT_hs&t=273s) to enable extension with iVerilog
@@ -34,5 +34,5 @@ Extension test:
 With testbench and GTK wave for simulation:
 
 <p align="center">
-  <img src="/Media/verilog-gtk-running.png" alt="workflow"/>
+  <img src="/Media/verilog-gtk-wave-running.png" alt="workflow"/>
 </p>
