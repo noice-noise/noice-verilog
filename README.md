@@ -1,6 +1,6 @@
 # noice-verilog
 
-Verilog struggles collection
+Verilog struggles repo
 
 ## Workflow: Icarus Verilog + GTK + VSCode extension
 
@@ -15,7 +15,7 @@ Follow-through [YouTube tutorial by godofthunder1729](https://www.youtube.com/wa
 - IMPORTANT: Don't forget to check `Add executable PATH` while configuring install.
 - IMPORTANT: `Avoid changing the setup path` with white spaces (as indicated in the setup warning), better to leave the settings as it is.
 
-### Install these VSCode extensions:
+### Install VSCode extensions:
 
 - `Verilog HDL` by leafvmaple
   - for compiling & cxecuting as show in the tutorial)
@@ -28,11 +28,11 @@ Follow-through [YouTube tutorial by godofthunder1729](https://www.youtube.com/wa
 Extension test:
 
 <p align="center">
-  <img src="/screenshots/hello-world.png" alt="hello" width="256" height="144"/>
+  <img src="/screenshots/hello-world.png" alt="hello"/>
 </p>
 
 With testbench and GTK wave for simulation:
 
 <p align="center">
-  <img src="/Media/verilog-gtk-running.png" alt="workflow" width="256" height="144"/>
+  <img src="/Media/verilog-gtk-running.png" alt="workflow"/>
 </p>
